@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 2rem; }
+h1 { color: #222; }
+#result { margin-top: 1.5rem; white-space: pre-wrap; }
+button { padding: .5rem 1rem; cursor: pointer; }
